@@ -1,9 +1,9 @@
 ---
-name: feature_request_template
+name: feature request template
 about: 프로젝트를 위한 아이디어 제안 양식
 title: "[feat] 관리자 페이지 구현 기능 요청 (EVDA-17)"
 labels: ''
-assignees: Hun0305
+assignees: ''
 type: Feature
 
 ---
