@@ -3,5 +3,6 @@
 int main() {
     printf("Hello, World!\n");
     printf("I'm testing my Jira integration with C17 code.\n");
-    return 0;
+	printf("We'll be HanWha vision Embedded Developer")
+	return 0;
 }
